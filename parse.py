@@ -25,7 +25,6 @@ class Parse:
                 self.result.append(name)
                 description['DESCR'] = elem.split(',')[1].split(':')[-1].strip().replace('"', "")
                 self.result.append(description)
-
                 
             elif elem.startswith('PID'):
                 pid['PID'] = elem.split(',')[0].split(':')[-1].strip().replace('"', "")
