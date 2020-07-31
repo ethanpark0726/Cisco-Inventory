@@ -230,7 +230,7 @@ if __name__ == '__main__':
     cellNumber = 5
     print()
     print('+-------------------------------------------------------------+')
-    print('|    Cisco L2 switches SNMP Location Gathernig tool...        |')
+    print('|    Cisco L2 switches Inventory Gathernig tool...            |')
     print('|    Version 1.0.0                                            |')
     print('|    Compatible with C35xx, C37xx, C38xx, C65XX               |')
     print('|    Nexus 5K, 7K, 9K                                         |')
