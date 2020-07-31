@@ -6,9 +6,7 @@ class Parse:
         self.data = data
         self.result = []
 
-    def getInventory(self):
-
-        
+    def getInventory(self):     
         
         print('--- Removing null values in the data')
         self.data = list(filter(None, self.data))
