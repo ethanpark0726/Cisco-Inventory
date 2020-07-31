@@ -6,7 +6,7 @@
 
 ## Report preview
 |Hostname|IP Address|Name|Description|PID|Serial Number|
-|:------:|:-----------:|:---------:|:---------:|:---------:|
+|:------:|:-----------:|:---------:|:---------:|:---------:|:---------:|
 |Switch1|10.1.1.1|Switch1 Supervisor 1|Something|Something|ABCD1234
 
 ## Tab-delimited file
