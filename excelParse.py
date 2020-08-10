@@ -1,8 +1,6 @@
 import openpyxl
 import datetime
 import time
-import re
-import ipaddress
 from openpyxl.styles import Border, Side, Font, Alignment, PatternFill
 
 fileName = 'Cisco_Inventory_WorkingFile.xlsx'
